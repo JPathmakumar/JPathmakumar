@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JPathmakumar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on an App
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on an app
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
