@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on an app
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Creating an app called CodeMind
+  
 
 <!---
 JPathmakumar/JPathmakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
