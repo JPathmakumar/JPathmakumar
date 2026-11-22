@@ -1,93 +1,141 @@
 # 👋 Hey, I'm Jonathan Pathmakumar
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B70,100:007BFF&height=200&section=header&text=JONATHAN%20PATHMAKUMAR&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:123B70,100:007BFF&height=220&section=header&text=JONATHAN%20PATHMAKUMAR&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=58" width="100%"/>
 
-### 💻 Aspiring Software Engineer | Developer | Creator
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Building+ideas+into+reality;Think.+Code.+Create.+Repeat.)](https://git.io/typing-svg)
 
-*Building the future, one line of code at a time.*
+### 💻 Developer | 🚀 Creator | 🎯 Future Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Think.+Code.+Create.+Repeat.;Learning+something+new+every+day.;Turning+ideas+into+real+projects.;Future+Software+Engineer.)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-JPathmakumar-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/JPathmakumar)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01` // ABOUT ME
 
-```js
+Hey! I'm **Jonathan Pathmakumar**, an aspiring software engineer passionate about programming, technology, and building innovative software.
+
+- 💻 Learning software engineering independently.
+- 🚀 Building real-world applications and experiments.
+- 🧠 Exploring frontend and backend development.
+- 📚 Improving my programming skills every day.
+- 🎯 Working towards becoming a professional software engineer.
+
+> "Great software starts with a single line of code."
+
+---
+
+## `02` // TECH STACK
+
+### Currently Working With
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
+</p>
+
+### Exploring Next
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,postgres,docker&theme=dark"/>
+</p>
+
+---
+
+## `03` // FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/JPathmakumar?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-007BFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+### 🧠 CodeMind
+
+Coding-focused software project.
+
+### 🌐 Web Development
+
+Websites, frontend experiments, and creative builds.
+
+### ⚙️ Future Builds
+
+More applications and software projects coming soon.
+
+---
+
+## `04` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JPathmakumar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=3B82F6&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPathmakumar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=JPathmakumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=3B82F6&currStreakLabel=00BFFF"/>
+
+</div>
+
+---
+
+## `05` // CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JPathmakumar&bg_color=0D1117&color=00BFFF&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `06` // CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JPathmakumar/JPathmakumar/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## `07` // CURRENT MISSION
+
+```javascript
 const jonathan = {
     name: "Jonathan Pathmakumar",
+    username: "JPathmakumar",
     role: "Aspiring Software Engineer",
-    interests: [
-        "Software Engineering",
-        "Web Development",
+
+    learning: [
+        "JavaScript",
+        "Frontend Development",
         "Backend Development",
-        "Building Innovative Projects"
+        "Software Engineering"
     ],
-    currentlyLearning: ["JavaScript", "Software Development"],
-    goals: "Become a Software Engineer",
-    philosophy: "Think. Code. Create. Repeat."
+
+    philosophy: "Never stop learning.",
+    motto: "Think. Code. Create. Repeat."
 };
+
+console.log("Mission in progress...");
 ```
-
-- 🚀 Building projects and exploring new technologies.
-- 📚 Learning programming independently.
-- 💡 Turning creative ideas into real-world software.
-- 🎯 Working towards becoming a professional Software Engineer.
-
-## ⚡ Tech Stack
-
-**Currently Working With**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-</p>
-
-**Exploring Next**
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,postgres,docker&theme=dark" />
-</p>
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🧠 CodeMind | An AI-focused coding project |
-| 💻 Personal Projects | Experiments, applications and development projects |
-
-*More projects coming soon...*
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=00BFFF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPathmakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
-
-<img src="https://streak-stats.demolab.com?user=JPathmakumar&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=00BFFF&currStreakLabel=3B82F6" width="70%" />
-
-</div>
-
-## 🐍 My Contributions
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 💙 THINK. CODE. CREATE. REPEAT.
+### ⚡ THINK. CODE. CREATE. REPEAT.
 
-*The journey to becoming a Software Engineer starts with one line of code.*
+**Thanks for visiting my GitHub profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:123B70,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:123B70,100:050B18&height=120&section=footer" width="100%"/>
 
 </div>
+
