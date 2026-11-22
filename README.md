@@ -29,6 +29,19 @@ Hey! I'm **Jonathan Pathmakumar**, an aspiring software engineer passionate abou
 
 ---
 
+## ⚡ CURRENTLY WORKING ON
+
+<img align="right" width="100" src="https://skillicons.dev/icons?i=js&theme=dark" />
+
+- 🔭 Building **CodeMind**
+
+<br clear="right"/>
+
+> [!IMPORTANT]
+> Always learning. Always building. Never stopping.
+
+
+
 ## `02` // TECH STACK
 
 ### Currently Working With
